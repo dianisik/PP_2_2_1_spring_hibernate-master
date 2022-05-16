@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="9a51dbcf-c4b4-4a50-8330-bbdd910a3531" name="PP_2_2_1_spring_hibernate-master" url="jdbc:mysql://localhost/spring_hiber" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>
